@@ -157,6 +157,7 @@
       transition: transform 0.5s cubic-bezier(0.55, 0.055, 0.675, 0.19);
 
       &--links {
+        
         height: 80%;
         flex-direction: column;
         justify-content: space-evenly;
@@ -166,6 +167,7 @@
 
           a:link,
           a:visited {
+            
             transform-origin: left;
             margin-right: initial;
             padding: 2rem;
